@@ -1,5 +1,5 @@
 |文件夾|方案名稱|特點|所含詞條示例：明天|所含詞條示例：春風|
 | :- | :- | :- | :- | :- |
 |Cangjie5-Lianlianda-with-official-and-semi-official-Rime-Dicts|倉頡五連連打（通）|<p>通用版。</p><p>詞庫主要來源：</p><p>RIME八股文，朙月和地球拼音，Ccedict詞條，rime-aca之luna\_pinyin.poetry.dict.yaml。</p><p>詞庫較大。</p>|明天/明天見/明天啟/明天啓/明天上午八時/明天上午/明天上班嗎/明天下午/明天依然愛你/明天再聊/明天再說/明天再說吧/明天去/明天吧/明天啊/明天就要/明天早晨/明天會更好/明天科技/明天聊/明天要上班/明天起/明天還要上班/明天開始|春風/春風得意/春風化雨/春風吹又生/春風滿面/春風一度/春風面/春風和氣/春風風人/春風不入驢耳/春風夏雨/春風深醉的晚上/春風藹吉/春風雨露/春風不度玉門關/春風不相識/春風不解禁楊花/春風且莫定/春風依舊/春風別我苦吟身/春風十里揚州路/春風十里柔情/春風千樹/春風只在園西畔/春風對青冢/春風急/春風拂檻露華濃/春風桃李花開日/春風澹蕩看不足/春風疑不到天涯/春風筵上貫珠勻/春風自在楊花/春風舉國裁宮錦/春風詞筆/春風送暖入屠蘇/春風飛到/春風散芝草/春風搖蕙草|
-|Cangjie5-Lianlianda-with-OpenVanilla-McBopomofo-Dicts|倉頡五連連打（麥）|<p>小麥詞庫版。</p><p>詞庫來源：小麥注音輸入法 fcitx5 模組詞庫（https://github.com/openvanilla/fcitx5-mcbopomofo/blob/master/data/data.txt）。</p><p>詞庫相對較小。</p>|明天/明天的/明天上午八時|春風/春風化雨/春風得意/春風吹又生/春風滿面/春風風人|
+|Cangjie5-Lianlianda-with-OpenVanilla-McBopomofo-Dicts|倉頡五連連打（麥）|<p>小麥詞庫版。</p><p>詞庫來源：小麥注音輸入法 fcitx5 模組詞庫（ https://github.com/openvanilla/fcitx5-mcbopomofo/blob/master/data/data.txt ）。</p><p>詞庫相對較小。</p>|明天/明天的/明天上午八時|春風/春風化雨/春風得意/春風吹又生/春風滿面/春風風人|
 
